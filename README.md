@@ -49,12 +49,12 @@ or email me at contact at ericnjuki dot com
 ## Top Projects
 <p>These are full apps I worked on in Angular + C#</p>
 
-<p float="left" align="center">
+<p float="left" align="left">
  <a href="https://github.com/ericnjuki/shopassist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist Project"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/shopassist-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist API"></a>
 </p>
 
 
-<p float="left" align="center">
+<p float="left" align="left">
  <a href="https://github.com/ericnjuki/wekezapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff" alt="Wekezapp Project"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/wekezapp-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff" alt="Wekezapp API"></a>
 </p>
 
@@ -103,19 +103,55 @@ View all my learning progress in my [learning tracker](https://github.com/ericnj
 
 ## Experiments
 <p>Projects I worked on to experiment with technologies I don't often use</p>
-<p float="left" align="center">
+<p float="left" align="left">
  <a href="https://github.com/ericnjuki/html5-with-routing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff" alt="HTML With Routing"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/devclave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff" alt="DevClave Blog"> </a>
 </p>
-<p float="left" align="center">
- <a href="https://github.com/ericnjuki/moving-clouds-canvas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff" alt="Moving Clouds"></a>
-  <a href="https://github.com/ericnjuki/ericnjuki.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=ericnjuki.github.io&theme=dark&icon_color=fff&title_color=fff" alt="Eric Njuki Portfolio"></a>
+<p float="left" align="left">
+ <a href="https://github.com/ericnjuki/moving-clouds-canvas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff" alt="Moving Clouds"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/ericnjuki.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=ericnjuki.github.io&theme=dark&icon_color=fff&title_color=fff" alt="Eric Njuki Portfolio"></a>
 </p>
 
+## Contact
 <pre>
-The html5-with-routing started as a Vue experiment
-till I accidentally fell in love with Vue
-and now Vue is part of my main stack :)
+You may reach me through twitter by dropping a quick DM (open DMs)
+or via email (contact at ericnjuki dot com)
 </pre>
+
+
+<!-- 
+REPOS HTML VERSIONS
+
+ <a href="https://github.com/ericnjuki/shopassist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist Project"></a>
+
+ <a href="https://github.com/ericnjuki/shopassist-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist API"></a>
+
+ <a href="https://github.com/ericnjuki/wekezapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff" alt="Wekezapp Project"> </a>
+
+ <a href="https://github.com/ericnjuki/wekezapp-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff" alt="Wekezapp API"></a>
+
+ <a href="https://github.com/ericnjuki/html5-with-routing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff" alt="HTML With Routing"></a>
+
+ <a href="https://github.com/ericnjuki/devclave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff" alt="DevClave Blog"> </a>
+ 
+ <a href="https://github.com/ericnjuki/moving-clouds-canvas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff" alt="Moving Clouds"></a>
+
+-->
+
+<!-- 
+REPOS MARKDOWN VERSIONS
+ [![ShopAssist Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/shopassist)
+
+ [![ShopAssist API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/shopassist-api)
+
+ [![Wekezapp Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/wekezapp)
+
+ [![Wekezapp API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/wekezapp-api)
+ 
+ [![HTML With Routing](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/html5-with-routing)
+
+ [![DevClave Blog](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/devclave)
+
+ [![Moving Clouds](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/moving-clouds-canvas)
+-->
 
 <!---
 ericnjuki/ericnjuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
