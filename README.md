@@ -22,7 +22,7 @@ I’m Eric, a freelance full-stack web developer and honorary designer.
 I'm currently learning Vue.js.
 You can reach me via twitter @ericnjuki
 or email me at contact at ericnjuki dot com
-<a href="https://ericnjuki.com">Check out the kind of work I do</a>
+<a href="https://ericnjuki.com">Check out my work</a>
 </pre>
 
 <br>
