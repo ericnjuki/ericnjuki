@@ -1,5 +1,4 @@
 <!-- 
-- 👋 Hi, I’m @ericnjuki
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -16,13 +15,15 @@
 </div>
 
 
-<p style="text-align: center;">
+<pre style="text-align: center;">
 Hello 👋
 
-I’m Eric, a full-stack developer and honorary designer.
-I work freelance building websites and web apps.
+I’m Eric, a freelance full-stack web developer and honorary designer.
+I'm currently learning Vue.js.
+You can reach me via twitter @ericnjuki
+or email me at contact at ericnjuki dot com
 <a href="https://ericnjuki.com">Check out the kind of work I do</a>
-</p>
+</pre>
 
 <br>
 
@@ -48,14 +49,16 @@ I work freelance building websites and web apps.
 ## Top Projects
 <p>These are full apps I worked on in Angular + C#</p>
 
-<a href="https://github.com/ericnjuki/shopassist"><img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist Project"></a>
+<p float="left" align="center">
+ <a href="https://github.com/ericnjuki/shopassist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist Project"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/shopassist-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist API"></a>
+</p>
 
-<a href="https://github.com/ericnjuki/shopassist-api"><img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist API"></a>
 
-[![Wekezapp Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/wekezapp)
+<p float="left" align="center">
+ <a href="https://github.com/ericnjuki/wekezapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff" alt="Wekezapp Project"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/wekezapp-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff" alt="Wekezapp API"></a>
+</p>
 
-[![Wekezapp API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/wekezapp-api)
-
+<div></div>
 <br>
 
 ## Learning Tracker
@@ -100,12 +103,13 @@ View all my learning progress in my [learning tracker](https://github.com/ericnj
 
 ## Experiments
 <p>Projects I worked on to experiment with technologies I don't often use</p>
-
- [![HTML With Routing](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/html5-with-routing)
-
- [![DevClave Blog](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/devclave)
-
- [![Moving Clouds](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/moving-clouds-canvas)
+<p float="left" align="center">
+ <a href="https://github.com/ericnjuki/html5-with-routing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff" alt="HTML With Routing"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/devclave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff" alt="DevClave Blog"> </a>
+</p>
+<p float="left" align="center">
+ <a href="https://github.com/ericnjuki/moving-clouds-canvas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff" alt="Moving Clouds"></a>
+  <a href="https://github.com/ericnjuki/ericnjuki.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=ericnjuki.github.io&theme=dark&icon_color=fff&title_color=fff" alt="Eric Njuki Portfolio"></a>
+</p>
 
 <pre>
 The html5-with-routing started as a Vue experiment
