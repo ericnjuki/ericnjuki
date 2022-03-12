@@ -77,7 +77,7 @@ Inspired by
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**C#**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**SQL**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**.NET Core**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 [see all](https://github.com/ericnjuki/my-learning-tracker)..
 
 ### Learning
@@ -152,8 +152,3 @@ REPOS MARKDOWN VERSIONS
 
  [![Moving Clouds](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/moving-clouds-canvas)
 -->
-
-<!---
-ericnjuki/ericnjuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
