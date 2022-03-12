@@ -6,8 +6,7 @@
 - 📫 How to reach me ...
  -->
 
-[![Eric's Github Banner - Dark](./assets/eric-readme-banner-light.png#gh-dark-mode-only)](https://ericnjuki.com)
-[![Eric's Github Banner - Light](./assets/eric-readme-banner-dark.png#gh-light-mode-only)](https://ericnjuki.com)
+[![Eric's Github Banner - Dark](./assets/eric-readme-banner-background-bordered.svg)](https://ericnjuki.com)
 
 <div align="center">
 
@@ -49,13 +48,13 @@ I work freelance building websites and web apps.
 ## Top Projects
 <p>These are full apps I worked on in Angular + C#</p>
 
-[![ShopAssist Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/shopassist)
+<a href="https://github.com/ericnjuki/shopassist"><img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist Project"></a>
 
- [![ShopAssist API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/shopassist-api)
- 
- [![Wekezapp Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/wekezapp)
- 
- [![Wekezapp API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/wekezapp-api)
+<a href="https://github.com/ericnjuki/shopassist-api"><img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff" alt="ShopAssist API"></a>
+
+[![Wekezapp Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/wekezapp)
+
+[![Wekezapp API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/wekezapp-api)
 
 <br>
 
