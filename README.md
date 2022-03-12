@@ -6,67 +6,62 @@
 - 📫 How to reach me ...
  -->
 
-[![Eric's Github Banner - Dark](./assets/eric-readme-banner-light.svg#gh-dark-mode-only)](https://ericnjuki.com)
-[![Eric's Github Banner - Light](./assets/eric-readme-banner-dark.svg#gh-light-mode-only)](https://ericnjuki.com)
+[![Eric's Github Banner - Dark](./assets/eric-readme-banner-light.png#gh-dark-mode-only)](https://ericnjuki.com)
+[![Eric's Github Banner - Light](./assets/eric-readme-banner-dark.png#gh-light-mode-only)](https://ericnjuki.com)
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/Portfolio-ericnjuki.com-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAQAAAAqJXdxAAAAAmJLR0QA/4ePzL8AAACbSURBVAgdBcG/KoUBAMDR3yKjeABZ7i4DyWAweAF1RQxKklxvor4MFpvkIUwGV1kM8iqSf8c5lQNPNqvcObPlxUll3heOyiJuHfrzbSEjXFcZ46JcYZQVDFUusVYGrOUZkypTn2bLPt7yit0y48O0yjEes46hrOKyyoDljDCUCcZVbjDKgh+/9txiqZzi01zlzLtt5+6rbHiwU/9OTZHVZKBkVAAAAABJRU5ErkJggg==&logoColor=white&color=black)](https://ericnjuki.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ericnjuki.com-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAQAAAAqJXdxAAAAAmJLR0QA/4ePzL8AAACbSURBVAgdBcG/KoUBAMDR3yKjeABZ7i4DyWAweAF1RQxKklxvor4MFpvkIUwGV1kM8iqSf8c5lQNPNqvcObPlxUll3heOyiJuHfrzbSEjXFcZ46JcYZQVDFUusVYGrOUZkypTn2bLPt7yit0y48O0yjEes46hrOKyyoDljDCUCcZVbjDKgh+/9txiqZzi01zlzLtt5+6rbHiwU/9OTZHVZKBkVAAAAABJRU5ErkJggg==&logoColor=white&color=black)](https://ericnjuki.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/ericnjuki/)
 [![Visits Badge](https://badges.pufler.dev/visits/ericnjuki/ericnjuki?style=flat&logoColor=white&color=black)](https://ericnjuki.com)
 </div>
 
 
-<pre style="text-align: center;">
+<p style="text-align: center;">
 Hello 👋
 
 I’m Eric, a full-stack developer and honorary designer.
 I work freelance building websites and web apps.
 <a href="https://ericnjuki.com">Check out the kind of work I do</a>
-</pre>
+</p>
 
 <br>
 
 ## Skills
-![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=black)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=black)
-![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=black)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=black)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=black)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html5&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css3&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lang-Sass-informational?style=flat&logo=sass&logoColor=white&color=black)
+
+<div align="center">
+
+![C# Badge](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=black)
+![.NET Badge](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=black)
+![SQL Server Badge](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=black)
+![Azure Badge](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=black)
+![JavaScript Badge](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
+![TypeScript Badge](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=black)
+![Vue.js Badge](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=black)
+![Angular Badge](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=black)
+![HTML Badge](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html5&logoColor=white&color=black)
+![CSS Badge](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css3&logoColor=white&color=black)
+![Sass Badge](https://img.shields.io/badge/Lang-Sass-informational?style=flat&logo=sass&logoColor=white&color=black)
+</div>
 
 <br>
 
 ## Top Projects
 <p>These are full apps I worked on in Angular + C#</p>
-<a href="https://github.com/ericnjuki/shopassist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
 
-<a href="https://github.com/ericnjuki/shopassist-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
+[![ShopAssist Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/shopassist)
 
-<a href="https://github.com/ericnjuki/wekezapp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
-
-<a href="https://github.com/ericnjuki/wekezapp-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
+ [![ShopAssist API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=shopassist-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/shopassist-api)
+ 
+ [![Wekezapp Project](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/wekezapp)
+ 
+ [![Wekezapp API](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=wekezapp-api&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/wekezapp-api)
 
 <br>
 
 ## Learning Tracker
-
 Inspired by 
 [Syknapse](https://github.com/Syknapse/My-Learning-Tracker)
-
 
 [//]: # (Status images)
 
@@ -106,17 +101,13 @@ View all my learning progress in my [learning tracker](https://github.com/ericnj
 
 ## Experiments
 <p>Projects I worked on to experiment with technologies I don't often use</p>
-<a href="https://github.com/ericnjuki/html5-with-routing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
 
-<a href="https://github.com/ericnjuki/devclave">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
+ [![HTML With Routing](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=html5-with-routing&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/html5-with-routing)
 
-<a href="https://github.com/ericnjuki/moving-clouds-canvas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff&hide_border=true" alt="Readme Card" />
-</a>
+ [![DevClave Blog](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=devclave&theme=dark&icon_color=fff&title_color=fff) ](https://github.com/ericnjuki/devclave)
+
+ [![Moving Clouds](https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff)](https://github.com/ericnjuki/moving-clouds-canvas)
+
 <pre>
 The html5-with-routing started as a Vue experiment
 till I accidentally fell in love with Vue
