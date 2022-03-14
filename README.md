@@ -80,7 +80,7 @@ Inspired by
 |**.NET Framework**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Angular**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**SQL Server**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-[see all](https://github.com/ericnjuki/my-learning-tracker)..
+[see all](https://github.com/ericnjuki/learning-tracker)..
 
 ### Learning
 |            Progress         |   Type     | Course                                                          |   Date     |
@@ -90,7 +90,7 @@ Inspired by
 | ![Completed][Completed]     |   Course   | [Learn CSS Grid for free]                                       |  July 2021 |
 | ![Completed][Completed]     |   Course   | [Angular - The Complete Guide]                                  |  Apr 2017  |
 | ![Soon][Soon]               |    Book    | Read [You Don't Know JS Yet: Get Started - 2nd Edition]         |            |
-[see all](https://github.com/ericnjuki/my-learning-tracker)..
+[see all](https://github.com/ericnjuki/learning-tracker)..
 
 [//]: # (Reference links to courses)
 
@@ -100,7 +100,7 @@ Inspired by
 [Learn CSS Grid for free]: https://scrimba.com/learn/cssgrid
 [JavaScript30]: https://javascript30.com/
 [Startup School]: https://www.startupschool.org/
-View all my learning progress in my [learning tracker](https://github.com/ericnjuki/my-learning-tracker).
+View all my learning progress in my [learning tracker](https://github.com/ericnjuki/learning-tracker).
 
 <br>
 
