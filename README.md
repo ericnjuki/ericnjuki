@@ -11,6 +11,7 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ericnjuki.com-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAQAAAAqJXdxAAAAAmJLR0QA/4ePzL8AAACbSURBVAgdBcG/KoUBAMDR3yKjeABZ7i4DyWAweAF1RQxKklxvor4MFpvkIUwGV1kM8iqSf8c5lQNPNqvcObPlxUll3heOyiJuHfrzbSEjXFcZ46JcYZQVDFUusVYGrOUZkypTn2bLPt7yit0y48O0yjEes46hrOKyyoDljDCUCcZVbjDKgh+/9txiqZzi01zlzLtt5+6rbHiwU/9OTZHVZKBkVAAAAABJRU5ErkJggg==&logoColor=white&color=black)](https://ericnjuki.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/ericnjuki/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=black)](https://www.twitter.com/ericnjuki/)
 [![Visits Badge](https://badges.pufler.dev/visits/ericnjuki/ericnjuki?style=flat&logoColor=white&color=black)](https://ericnjuki.com)
 </div>
 
@@ -18,10 +19,9 @@
 <pre style="text-align: center;">
 Hello 👋
 
-I’m Eric, a freelance full-stack web developer and honorary designer.
-I'm currently learning Vue.js.
-You can reach me via twitter <a href="https://twitter.com/ericnjuki">@ericnjuki</a>
-or <a href="mailto:contact@ericnjuki.com">email</a> me.
+I’m Eric, a full-stack web developer and honorary designer.
+I'm currently learning Node.js.
+You can reach me via twitter <a href="https://twitter.com/ericnjuki">@ericnjuki</a> or <a href="mailto:contact@ericnjuki.com">email</a>.
 <a href="https://ericnjuki.com">Check out my work</a>
 </pre>
 
@@ -83,7 +83,7 @@ Inspired by
 ### Learning
 |            Status           |   Year     |                            Course                               |                   Tutor                     |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Jan 2022   | [Vue - The Complete Guide]                                      | Maximilian Schwarzmüller                    |
+| ![In Progress][In Progress] | Mar 2022   | [Learn Node.js]                                                 | Self                                        |
 | ![Completed][Completed]     | Apr 2017   | [Angular - The Complete Guide]                                  | Maximilian Schwarzmüller                    |
 | ![Completed][Completed]     | July 2021  | [Learn CSS Grid for free]                                       | Per Harald Borgen - [Scrimba]               |
 | ![Soon][Soon]               |            | Read [You Don't Know JS Yet: Get Started - 2nd Edition]         | Kyle Simpson                                |
@@ -91,6 +91,7 @@ Inspired by
 
 [//]: # (Reference links to courses)
 
+[Learn Node.js]: https://nodejs.dev/learn
 [Vue - The Complete Guide]: https://www.udemy.com/course/vuejs-2-the-complete-guide/
 [Angular - The Complete Guide]: https://www.udemy.com/course/the-complete-guide-to-angular-2/
 [You Don't Know JS Yet: Get Started - 2nd Edition]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
@@ -110,11 +111,6 @@ View all my learning progress in my [learning tracker](https://github.com/ericnj
  <a href="https://github.com/ericnjuki/moving-clouds-canvas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=moving-clouds-canvas&theme=dark&icon_color=fff&title_color=fff" alt="Moving Clouds"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ericnjuki/ericnjuki.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericnjuki&repo=ericnjuki.github.io&theme=dark&icon_color=fff&title_color=fff" alt="Eric Njuki Portfolio"></a>
 </p>
 
-## Contact
-<pre>
-You may reach me through twitter by dropping a quick DM (open DMs)
-or via email (contact at ericnjuki dot com)
-</pre>
 
 
 <!-- 
