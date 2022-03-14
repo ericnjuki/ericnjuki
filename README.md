@@ -73,31 +73,33 @@ Inspired by
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
 ### Skills
-|               Skill              | Introduction | Used in a project    | Professional Use |
+|               Skill              |    Introduction   |     Regular Use        | Professional Use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**C#**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vue**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**.NET Core**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**C#**                            | ![done][done]     | ![done][done]          | ![done][done]    |
+|**.NET Framework**                | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Angular**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**SQL Server**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 [see all](https://github.com/ericnjuki/my-learning-tracker)..
 
 ### Learning
-|            Status           |   Year     |                            Course                               |                   Tutor                     |
-|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Mar 2022   | [Learn Node.js]                                                 | Self                                        |
-| ![Completed][Completed]     | Apr 2017   | [Angular - The Complete Guide]                                  | Maximilian Schwarzmüller                    |
-| ![Completed][Completed]     | July 2021  | [Learn CSS Grid for free]                                       | Per Harald Borgen - [Scrimba]               |
-| ![Soon][Soon]               |            | Read [You Don't Know JS Yet: Get Started - 2nd Edition]         | Kyle Simpson                                |
+|            Progress         |   Type     | Course                                                          |   Date     |
+|:---------------------------:|:----------:|:----------------------------------------------------------------|:-----------|
+| ![In Progress][In Progress] |   Course   | [Learn Node.js]                                                 |            |
+| ![In Progress][In Progress] |   Course   | [Startup School]                                                |            |
+| ![Completed][Completed]     |   Course   | [Learn CSS Grid for free]                                       |  July 2021 |
+| ![Completed][Completed]     |   Course   | [Angular - The Complete Guide]                                  |  Apr 2017  |
+| ![Soon][Soon]               |    Book    | Read [You Don't Know JS Yet: Get Started - 2nd Edition]         |            |
 [see all](https://github.com/ericnjuki/my-learning-tracker)..
 
 [//]: # (Reference links to courses)
 
 [Learn Node.js]: https://nodejs.dev/learn
-[Vue - The Complete Guide]: https://www.udemy.com/course/vuejs-2-the-complete-guide/
 [Angular - The Complete Guide]: https://www.udemy.com/course/the-complete-guide-to-angular-2/
 [You Don't Know JS Yet: Get Started - 2nd Edition]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
 [Learn CSS Grid for free]: https://scrimba.com/learn/cssgrid
-
-[Scrimba]: https://scrimba.com/
+[JavaScript30]: https://javascript30.com/
+[Startup School]: https://www.startupschool.org/
 View all my learning progress in my [learning tracker](https://github.com/ericnjuki/my-learning-tracker).
 
 <br>
