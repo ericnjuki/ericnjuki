@@ -86,7 +86,6 @@ Inspired by
 |            Progress         |   Type     | Course                                                          |   Date     |
 |:---------------------------:|:----------:|:----------------------------------------------------------------|:-----------|
 | ![In Progress][In Progress] |   Course   | [Learn Node.js]                                                 |            |
-| ![In Progress][In Progress] |   Course   | [Startup School]                                                |            |
 | ![Completed][Completed]     |   Course   | [Learn CSS Grid for free]                                       |  July 2021 |
 | ![Completed][Completed]     |   Course   | [Angular - The Complete Guide]                                  |  Apr 2017  |
 | ![Soon][Soon]               |    Book    | Read [You Don't Know JS Yet: Get Started - 2nd Edition]         |            |
