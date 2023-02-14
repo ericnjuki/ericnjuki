@@ -12,8 +12,8 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ericnjuki.com-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAQAAAAqJXdxAAAAAmJLR0QA/4ePzL8AAACbSURBVAgdBcG/KoUBAMDR3yKjeABZ7i4DyWAweAF1RQxKklxvor4MFpvkIUwGV1kM8iqSf8c5lQNPNqvcObPlxUll3heOyiJuHfrzbSEjXFcZ46JcYZQVDFUusVYGrOUZkypTn2bLPt7yit0y48O0yjEes46hrOKyyoDljDCUCcZVbjDKgh+/9txiqZzi01zlzLtt5+6rbHiwU/9OTZHVZKBkVAAAAABJRU5ErkJggg==&logoColor=white&color=black)](https://ericnjuki.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/ericnjuki/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=black)](https://www.twitter.com/ericnjuki/)
-[![Visits Badge](https://badges.pufler.dev/visits/ericnjuki/ericnjuki?style=flat&logoColor=white&color=black)](https://ericnjuki.com)
-</div>
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/ericnjuki/ericnjuki?style=flat&logoColor=white&color=black)](https://ericnjuki.com)
+</div> -->
 
 
 <pre style="text-align: center;">
