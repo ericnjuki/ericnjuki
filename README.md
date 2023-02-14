@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
  -->
 
-[![Eric's Github Banner - Dark](./assets/eric-readme-banner-background-bordered.svg)](https://ericnjuki.com)
+[![Eric's Github Banner - Dark](./assets/eric-readme-banner.jpg)](https://ericnjuki.com)
 
 <div align="center">
 
@@ -31,17 +31,20 @@ You can reach me via twitter <a href="https://twitter.com/ericnjuki">@ericnjuki<
 
 <div align="center">
 
-![C# Badge](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=black)
-![.NET Badge](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=black)
-![SQL Server Badge](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=black)
-![Azure Badge](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=black)
+![React Badge](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=black)
 ![JavaScript Badge](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
 ![TypeScript Badge](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=black)
-![Vue.js Badge](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=black)
-![Angular Badge](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=black)
-![HTML Badge](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html5&logoColor=white&color=black)
-![CSS Badge](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css3&logoColor=white&color=black)
-![Sass Badge](https://img.shields.io/badge/Lang-Sass-informational?style=flat&logo=sass&logoColor=white&color=black)
+![MongoDB Badge](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=black)
+![AWS Badge](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=black)
+<!-- ![SQL Server Badge](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=black) -->
+![.NET Badge](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=black)
+![Azure Badge](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=black)
+![C# Badge](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=black)
+<!-- ![Vue.js Badge](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=black) -->
+<!-- ![Angular Badge](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=black) -->
+<!-- ![HTML Badge](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html5&logoColor=white&color=black) -->
+<!-- ![CSS Badge](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css3&logoColor=white&color=black) -->
+<!-- ![Sass Badge](https://img.shields.io/badge/Lang-Sass-informational?style=flat&logo=sass&logoColor=white&color=black) -->
 </div>
 
 <br>
