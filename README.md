@@ -20,8 +20,8 @@
 Hello 👋
 
 I’m Eric, a full-stack web developer and honorary designer.
-I'm currently learning Node.js.
-You can reach me via twitter <a href="https://twitter.com/ericnjuki">@ericnjuki</a> or <a href="mailto:contact@ericnjuki.com">email</a>.
+I'm currently (re)learning mongo
+You can reach me via <a href="mailto:contact@ericnjuki.com">email</a>.
 <a href="https://ericnjuki.com">Check out my work</a>
 </pre>
 
